@@ -1,0 +1,39 @@
+/**************************************TAG SELECTORS******************************/
+
+body {
+  background-color: #E6E6E6;
+}
+
+h1 {
+  color: #5C7AEA;
+}
+h3 {
+  color: #5C7AEA;
+}
+hr {
+
+  background-color: #E6E6E6;
+  border-style: none;
+  border-top-style: dotted;
+  width: 15%;
+  border-color: #5C7AEA;
+  border-width: 10px;
+}
+
+  img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10% 10% 10% 10%
+
+
+
+
+}
+
+/********************************************CLASS SELECTORS*************************************/
+.profile {
+  height: 100%;
+  width: 100%;
+  border-radius: 30% 30% 70% 70%;
+
+}/********************************************ID SELECTORS*************************************/
